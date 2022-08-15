@@ -1,0 +1,28 @@
+.container {
+  width: 80%;
+  margin: auto;
+}
+.error {
+  border: 2px solid red;
+  border-radius: 5px;
+  width: 100%;
+  color: red;
+  padding: 5xp;
+  background-color: #ffbbbb;
+}
+.notification {
+  border: 2px solid green;
+  border-radius: 5px;
+  width: 100%;
+  color: green;
+  padding: 5px;
+  background-color: #bbffbb;
+}
+.footer {
+  padding: 10px;
+  text-align: center;
+  background-color: #bbbbbb;
+  font-weight: 400;
+  width: 100%;
+  margin-top: 10px;
+}
